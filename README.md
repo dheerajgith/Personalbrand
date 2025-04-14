@@ -1,4 +1,4 @@
-# Personalbrand# Personal Brand Website
+# Personal Brand Website
 
 Welcome to the Personal Brand Website project! This project serves as a personal branding platform to showcase skills, experiences, and portfolio.
 
